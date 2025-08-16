@@ -1,0 +1,17 @@
+.active {
+
+    color: #fff700;
+
+}
+
+.inactive {
+
+    color: #000000;
+
+}
+
+.starStyle {
+
+    font-size: 50px;
+    cursor: pointer;
+}
